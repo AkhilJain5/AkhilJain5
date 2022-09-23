@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning c++ language
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me!! 
--     My instagram - ___.a.k.h.i.l.___
+-     My instagram - _akhil.5_
 -     My linked in - Akhil jain
 
 <!---
