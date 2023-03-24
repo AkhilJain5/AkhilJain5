@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AkhilJain5
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning c++ language
+- 👀 I’m interested in software development.
+- 👉 I have completed some languages like C,C++ and python.
+- 🌱 I’m currently learning python with machine learning language.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me!! 
 -     My instagram - _akhil.5_
