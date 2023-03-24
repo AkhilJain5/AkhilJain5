@@ -1,3 +1,4 @@
+<!-- <img align="centre" alt="photo" width="250" height="330" src ="https://contentstatic.techgig.com/thumb/msid-86001236,width-460,resizemode-4/Coding-for-students-Learn-with-these-7-apps.jpg?10556" > -->
 - 👋 Hi, I’m Akhil Jain
 - 👀 I’m interested in software development.
 - 👉 I have completed some languages like C,C++ and python.
@@ -6,8 +7,7 @@
 - 📫 How to reach me!! 
 -     My instagram - _akhil.5_
 -     My linked in - Akhil jain
-
-<img width ="250" src ="https://contentstatic.techgig.com/thumb/msid-86001236,width-460,resizemode-4/Coding-for-students-Learn-with-these-7-apps.jpg?10556" >
+<img align="right" alt="coding" width="400" src="https://contentstatic.techgig.com/thumb/msid-86001236,width-460,resizemode-4/Coding-for-students-Learn-with-these-7-apps.jpg?10556">
 <!---
 AkhilJain5/AkhilJain5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
