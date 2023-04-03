@@ -9,8 +9,10 @@
 
 ### About Me :
 **I am a Python Developer, and getting through machine learning!** 
+<div id="header" align="left">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGNiYmMwZGY5MTkyYjBiMzNkMDI0YTIzNTI2OTY2ZGYxMzIxMWQ2YyZjdD1z/Hc7YKyK5l8TGEvlP8n/giphy.gif" width="200">
-
+</div>
+   
 🚀 **I am passionate about creativity and technology which is so amazing, problem-solving and creating optimized solutions is something I like and I love to play musical intruments like guitar and casio and want to build a large network.!**
 
 👀 **I’m an engineering student, pursuing my B.Tech in Computer Science from Madhav Institute of Technology and Science. I have completed programming languages like C, C++ and python.**
