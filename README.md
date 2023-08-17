@@ -15,7 +15,7 @@
    
 🚀 **I am passionate about creativity and technology which is so amazing, problem-solving and creating optimized solutions is something I like and I love to play musical intruments like guitar and casio and want to build a large network.!**
 
-👀 **I’m an engineering student, pursuing my B.Tech in Computer Science from Madhav Institute of Technology and Science. I have completed programming languages like C, C++ and python.**
+👀 **I’m an engineering student, pursuing my B.Tech in Computer Science from Madhav Institute of Technology and Science.**
 
 🎓 *I have skills like:* 
 **C,** 
