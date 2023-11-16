@@ -72,4 +72,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
 </p>
 
-[![Akhil's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AkhilJain5&theme=merko)](https://github.com/AkhilJain5/github-readme-activity-graph)
+[![Akhil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AkhilJain5&theme=merko)](https://github.com/AkhilJain5/github-readme-activity-graph)
