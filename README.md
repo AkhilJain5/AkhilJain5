@@ -51,6 +51,8 @@
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="Git" **alt="Git" width="80" height="80"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" title="Canva" alt="Canva " width="80" height="80"/>&nbsp;
   <img src="https://w7.pngwing.com/pngs/431/965/png-transparent-figma-designer-computer-icons-material-design-design-rectangle-poster-logo.png" title="figma" alt="figma " width="80" height="80"/>&nbsp;
+  <img src ="https://raw.githubusercontent.com/github/explore/a4691f04ff219c1c2aa02fc61fda41aa43f1459a/topics/jupyter-notebook/jupyter-notebook.png" title="Jupyter notebook" alt="Jupyter notebook " width="80" height="80"/>&nbsp;
+  <img src ="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png"title="Visual Studio Code" alt="Visual Studio Code" width="80" height="80"/>&nbsp;
 </div>
 <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
 
