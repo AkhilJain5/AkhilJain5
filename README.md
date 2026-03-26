@@ -25,7 +25,9 @@
 **Data Structures and Algorithms,**
 **Operating Systems,**
 **Database Management System,**
-**Computer Network.**
+**Computer Network,**
+**Data Analysis,**
+**C#**
 
 ### Find me here! :
 <div id="badges" align = "center">
